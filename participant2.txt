@@ -1,0 +1,40 @@
+[adresses]
+Thomas thomas.fayoux@gmail.com
+Mireille thomas.fayoux@gmail.com
+Hugo thomas.fayoux@gmail.com
+Anne thomas.fayoux@gmail.com
+Gaël thomas.fayoux@gmail.com
+Emmanuelle thomas.fayoux@gmail.com
+Rozenn thomas.fayoux@gmail.com
+Olivier thomas.fayoux@gmail.com
+Pierre thomas.fayoux@gmail.com
+Mathilde thomas.fayoux@gmail.com
+Denis thomas.fayoux@gmail.com
+Eugénie thomas.fayoux@gmail.com
+Francois thomas.fayoux@gmail.com
+Guillaume thomas.fayoux@gmail.com
+[/adresses]
+
+[couples]
+Thomas Mireille
+Hugo Anne
+Gaël Emmanuelle
+Rozenn Olivier
+Pierre Mathilde
+Denis Eugénie
+[/couples]
+
+[mail]
+Salut participant !
+
+Ce mail est envoyé automatiquement(peu être même magiquement) pour te désigner la personne à qui tu feras un cadeau le 15 décembre à l'occasion du repas de noël.
+Pour garder la magie de Noël et que ce moment soit "Legend ... Wait for it ...", tu dois être le seul à lire ce mail !!
+
+Petit rappel: LA seule règle du jeu, moins de 10€ pour le cadeau
+"Not yet ..."
+Tu choisiras le cadeau de : destinataire
+"dary... Legendary"
+
+Bonne chasse !! 
+Père Noël.
+[/mail]
